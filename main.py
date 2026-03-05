@@ -30,7 +30,7 @@ logger = logging.getLogger(__name__)
 # ============= КОНФИГУРАЦИЯ =============
 TOKEN = "8755487229:AAGDI58GgaR9sp0nTXudlknmLbN2Q5Yok_Q"
 API_URL = f"https://api.telegram.org/bot{TOKEN}"
-ADMIN_ID = 123456789  # ЗАМЕНИ ПОСЛЕ ЗАПУСКА!
+ADMIN_ID =  7750512181 # ЗАМЕНИ ПОСЛЕ ЗАПУСКА!
 
 # Создаем директории
 os.makedirs("data", exist_ok=True)
